@@ -1,6 +1,0 @@
-jonnyborbs/orangeoblivion@gh-pages:
-  - source : 
-    dest: 
-    exclude: |
-     CNAME
-    deleteOrphaned: true
