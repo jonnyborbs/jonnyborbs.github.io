@@ -12,4 +12,4 @@ I live in the Sacramento, California area with my partner and many rescue parrot
 
 I've also linked my other two blogs in the sidebar, including [8BITDMC](https://www.8bitdmc.com) where I keep the records of my work restoring and enjoying my 1981 DeLorean, and [vAficionado](https://www.vaficionado.com) which is my legacy tech blog mainly focused on VMware automation solutions.
 
-To learn more about my current work, check out my [GitHub](https://github.com/jonnyborbs), my [LinkedIn](https://www.linkedin.com/in/jon-schulman), or my [Polywork](https://www.polywork.com/jschulman) (I really need to update this)
+To learn more about my current work, check out my [GitHub](https://github.com/jonnyborbs), my [LinkedIn](https://www.linkedin.com/in/jon-schulman), or my [Polywork](https://www.polywork.com/jschulman)
