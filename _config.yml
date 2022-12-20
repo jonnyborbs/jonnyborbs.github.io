@@ -3,7 +3,7 @@ tagline: Parrot rescuer, DeLorean driver, product manager
 
 author:
   name: Jon
-  url: https://mastodon.social/web/@jonnyborbs
+  url: https://hachyderm.io/@jonnyborbs
 
 plugins:
   - jekyll-feed

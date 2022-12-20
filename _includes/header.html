@@ -26,7 +26,7 @@
       <ul class="social-list pure-menu-list">
         {% for social in site.data.social %}
           <li class="social-item pure-menu-item">
-            <a class="pure-menu-link pure-button" href="{{ social.url }}" target="_blank">
+            <a class="pure-menu-link pure-button" rel="me" href="{{ social.url }}" target="_blank">
               <i class="{{ social.icon | default: 'fas fa-link' }}" title="{{ social.title }}"></i>
             </a>
           </li>
